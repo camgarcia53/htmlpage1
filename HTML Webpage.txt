@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1>Software Engineering & Data Science<h1>
+<link rel = “stylesheet” type = “text/css” href = “style.css”>
+</head>
+<body>
+<p>This webpage is dedicated to learning both software engineering & data science principles and practices</p>
+<p>
+</body>
+</html>
+
